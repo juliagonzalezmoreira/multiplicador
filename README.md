@@ -24,7 +24,7 @@ Um multiplicador usando conceitos de Programação Orientada a Objetos <br> <br>
 ## 📍 Instruções 
 
 ### Pré-Requisitos
-Para executar o projeto localmente, é necessário ter instalados em sua máquina os seguintes requisitos: [Node.js](https://nodejs.org/en), [Angular CLI](https://angular.io/cli). Após a instalação, é preciso também instalar as dependências do arquivo package.json. Para isso, digite o comando npm install após seguir os passos anteriores.
+Para executar o projeto localmente, é necessário ter instalados em sua máquina os seguintes requisitos: [Node.js](https://nodejs.org/en). Após a instalação, é preciso também instalar as dependências do arquivo package.json. Para isso, digite o comando npm install após seguir os passos anteriores.
 
 
 ## 🔧 Tecnologias
